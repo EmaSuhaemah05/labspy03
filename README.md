@@ -15,7 +15,13 @@
 6. print _("data ke-", b(variable), "-->", i)_.
 ![Screenshot (42)](https://user-images.githubusercontent.com/57002531/68454952-c2e7a900-022c-11ea-91df-8191530f558f.png)
 7. dan hasilnya
+![Screenshot (46)](https://user-images.githubusercontent.com/57002531/68454957-c713c680-022c-11ea-8c56-8d923bb701b3.png)
 
 
 
 **Latihan 2**
+
+**Buat program untuk menampilkan bilangan terbesar dari  data yang diinputkan**
+
+1. buat lah list data
+2. 
